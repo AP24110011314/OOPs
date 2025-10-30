@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "LibraryMan.C": "cpp",
+        "Libraryman2.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "overloading.C": "cpp",
+        "overloadingfun.C": "cpp",
+        "overloadingoper.C": "cpp",
+        "Trash.C": "cpp",
+        "code.C": "cpp"
+    }
+}
